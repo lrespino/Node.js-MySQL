@@ -14,10 +14,25 @@ CREATE TABLE products (
 );
 
 INSERT INTO products (product_name, department_name, price, stock_quantity)
-VALUES ();
+VALUES ("a", "aa", 1.1, 4);
 
 INSERT INTO products (product_name, department_name, price, stock_quantity)
-VALUES ();
+VALUES ("b", "bb", 2.2, 4);
 
 INSERT INTO products (product_name, department_name, price, stock_quantity)
-VALUES ();
+VALUES ("c", "cc", 3.3, 4);
+
+INSERT INTO products (product_name, department_name, price, stock_quantity)
+VALUES ("D", "DD", 3.3, 4);
+
+INSERT INTO products (product_name, department_name, price, stock_quantity)
+VALUES ("E", "EE", 3.3, 4);
+
+INSERT INTO products (product_name, department_name, price, stock_quantity)
+VALUES ("F", "FF", 3.3, 4);
+
+INSERT INTO products (product_name, department_name, price, stock_quantity)
+VALUES ("G", "GG", 3.3, 4);
+
+INSERT INTO products (product_name, department_name, price, stock_quantity)
+VALUES ("H", "HH", 3.3, 4);
