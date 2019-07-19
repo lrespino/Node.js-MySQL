@@ -15,7 +15,6 @@ var connection = mysql.createConnection({
 
   // Your password
   password: process.env.SQL_KEY,
-
   database: "bamazon_db"
 });
 
